@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Bulls_and_Cows1.Bulls_and_Cows-task-build-classes-java.main" target="16" />
+      <module name="Bulls_and_Cows1.Bulls_and_Cows-task-build-generated-sources-annotationProcessor-java.main" target="16" />
+      <module name="Bulls_and_Cows1.Bulls_and_Cows-task-build-generated-sources-headers-java.main" target="16" />
+      <module name="Bulls_and_Cows1.Bulls_and_Cows-task-build-reports-tests.main" target="16" />
+      <module name="Bulls_and_Cows1.Bulls_and_Cows-task-build-test-results.main" target="16" />
+      <module name="Bulls_and_Cows1.Bulls_and_Cows-task-build-tmp.main" target="16" />
+      <module name="Bulls_and_Cows1.Bulls_and_Cows-task.main" target="16" />
+      <module name="Bulls_and_Cows1.Topics-Processing_strings-Compression_algorithm.main" target="16" />
+      <module name="Bulls_and_Cows1.Topics-Processing_strings-Create_an_euphonious_word.main" target="16" />
+      <module name="Bulls_and_Cows1.Topics-Processing_strings-Determine_the_output.main" target="16" />
+      <module name="Bulls_and_Cows1.Topics-Processing_strings-Determine_the_value.main" target="16" />
+      <module name="Bulls_and_Cows1.Topics-Processing_strings-Double_characters.main" target="16" />
+      <module name="Bulls_and_Cows1.Topics-Processing_strings-Parse_url.main" target="16" />
+      <module name="Bulls_and_Cows1.Topics-Processing_strings-Theory.main" target="16" />
+      <module name="Bulls_and_Cows1.util.main" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
