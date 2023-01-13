@@ -1,2 +1,2 @@
 # Bulls-and-Cows
-Htyperskill Bulls-and-Cows learning project
+Hyperskill Bulls-and-Cows learning project
